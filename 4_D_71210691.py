@@ -1,0 +1,8 @@
+print("!!Selamat datang di H+ GYM!!")
+print("Silahkan pilih menu dibawah ini : ")
+print("1. Menambah data")
+print("2. Menampilkan data")
+print("3. Keluar")
+pilihan=input("Silahakan masukkan data yang anda inginkan : ")
+nama=input("Masukkan nama pelanggan : ")
+jenis=input("Masukkan jenis member : ")
